@@ -1,4 +1,4 @@
-# Static-Gesture-Recognition Lightweight CNN
+# Gesture-Recognition Lightweight CNN
 CNN for static gesture recognition base on Computer Vision
 
 
