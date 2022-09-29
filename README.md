@@ -3,8 +3,6 @@ CNN for static gesture recognition base on Computer Vision
 
 
 
-​                                                   <img src="README.assets/image-20220929134724798.png" alt="image-20220929134724798" style="zoom: 25%;" /><img src="README.assets/image-20220929134827867.png" alt="image-20220929134827867" style="zoom: 25%;" /><img src="README.assets/image-20220929134917173.png" alt="image-20220929134917173" style="zoom:25%;" />
-
 ## Dataset
 
 Dataset from Ankara Ayranci Anadolu, Turkey, and 10 types of gestures in total.
@@ -59,6 +57,10 @@ Part of result of different edge detection methods base on this CNN model:
 <img src="README.assets/image-20220929133704444.png" alt="image-20220929133704444" style="zoom: 67%;" /><img src="README.assets/image-20220929133804556.png" alt="image-20220929133804556" style="zoom: 67%;" />
 
 After hyper-parameterisation, the final test set is accurate to **95.15%**.
+
+
+
+​                                                   <img src="README.assets/image-20220929134724798.png" alt="image-20220929134724798" style="zoom: 25%;" /><img src="README.assets/image-20220929134827867.png" alt="image-20220929134827867" style="zoom: 25%;" /><img src="README.assets/image-20220929134917173.png" alt="image-20220929134917173" style="zoom:25%;" />
 
 
 
