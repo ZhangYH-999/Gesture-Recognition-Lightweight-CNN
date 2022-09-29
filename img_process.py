@@ -1,7 +1,6 @@
 import os
 import cv2 as cv
 import numpy as np
-from keras.utils import to_categorical
 
 WIN_UP_X = 0
 WIN_UP_Y = 0

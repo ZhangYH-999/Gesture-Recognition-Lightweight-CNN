@@ -71,7 +71,6 @@ if __name__ == '__main__':
     scores = model.evaluate(x_test, y_test)
     print('\n loss: ', scores[0])
     print('\n accuracy: ', scores[1])
-    print(model_history.history.keys())
 
     plt.plot(model_history.history['accuracy'])
     plt.plot(model_history.history['val_accuracy'])
