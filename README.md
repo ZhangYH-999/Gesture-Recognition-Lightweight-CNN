@@ -73,6 +73,8 @@ After hyper-parameterisation, the final test set is accurate to **95.15%**.
 
 ## Document Intro
 
+requirement: `tensorflow 2.4`
+
 `capture_video.py`: run the program in real-time recognition  with `gesture_model.h5`
 
 `run_model.py`: train the CNN model
